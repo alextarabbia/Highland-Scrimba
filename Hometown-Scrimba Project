@@ -1,0 +1,27 @@
+<div class="top section"> 
+    <h1> Visit the Highland</h1>
+    <h3> Enjoy four beautiful seasons in upstate New York located in between New York City and Albany.</h3>
+</div>
+
+<div class="middle section">
+    <h2>Top three activities to do in Highland</h2>
+    <div class="apple orchard">
+        <p> Visit Wilklow's Orchard</p>
+        <p> Pick some apples, feed goats, or snack on some apple cider donuts.</p>
+    </div>
+    <div class="hudson river">
+        <p>Eat some local New York grub.</p>
+        <p>Grab some pizza from one of the many tasty pizzarias, have some cider at Bad Seed, and delight yourself with an italian combo from Wagon Wheels Deli. </p>
+    </div>
+    <div class="walkway">
+        <p>Walk or bike along the Walkway over the Hudson. </p>
+        <p>The Walkway over the Hudson is the longest elevated pedestrian bridge. </p>
+    </div>
+</div>
+
+<div class="bottom section">
+    <h2>Your guide</h2>
+    <p>I lived in Highland for 18 years, exploring miles of trails along the river and mountains, eating and drinking from local shops, and hanging out at all the local spots."</p>
+    <p>Alex Tarabbia</p>
+</div>
+
